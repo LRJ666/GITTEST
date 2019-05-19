@@ -9,6 +9,9 @@ public class hello {
         System.out.println("hello world");
         System.out.println("hello world");
 
+        
+
+  System.out.println("胜多负少发射点发生");
 
 
     }
