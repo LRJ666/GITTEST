@@ -13,6 +13,9 @@ public class hello {
 
   System.out.println("胜多负少发射点发生");
 System.out.println("胜多负少发射胜多负少发射点发生的点发生");
+System.out.println("master");
+
+
 
     }
 }
