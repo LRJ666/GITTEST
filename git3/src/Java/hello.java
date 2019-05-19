@@ -7,7 +7,6 @@ public class hello {
 
 
         System.out.println("local");
-        System.out.println("local");
 
 
     }
