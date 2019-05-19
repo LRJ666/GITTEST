@@ -7,8 +7,7 @@ public class hello {
 
 
 
-        System.out.println("master");
-        System.out.println("local");
+        System.out.println("master11111");
 
 
     }
