@@ -8,6 +8,8 @@ public class hello {
 
 
         System.out.println("master11111");
+        System.out.println("local1111");
+
 
 
     }
