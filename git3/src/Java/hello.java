@@ -7,8 +7,6 @@ public class hello {
 
 
 
-        System.out.println("local1111");
-        System.out.println("local1111");
         System.out.println("master11111");
 
 
