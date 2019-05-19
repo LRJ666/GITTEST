@@ -6,10 +6,7 @@ public class hello {
 
 
 
-        System.out.println("local");
-        System.out.println("local");
 
-        System.out.println("master");
         System.out.println("master");
 
 
