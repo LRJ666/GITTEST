@@ -6,8 +6,8 @@ public class hello {
 
 
 
-        System.out.println("NEW");
-        System.out.println("NEW");
+        System.out.println("local");
+        System.out.println("local");
 
 
     }
