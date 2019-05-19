@@ -7,6 +7,7 @@ public class hello {
 
 
         System.out.println("NEW");
+        System.out.println("NEW");
 
 
     }
